@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome 
 
 You can use the [editor on GitHub](https://github.com/Mech342/Group-Project-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -23,8 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+
 
 ![](https://media.giphy.com/media/mR3FqAStFhyiQ/giphy.gif)
 ![cat](https://user-images.githubusercontent.com/65363589/81987504-9d2dc900-95ee-11ea-8eca-e0c12f1b5fa4.jpg)
