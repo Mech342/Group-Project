@@ -27,6 +27,8 @@ Syntax highlighted code block
 ```
 
 ![](https://media.giphy.com/media/mR3FqAStFhyiQ/giphy.gif)
+![cat](https://user-images.githubusercontent.com/65363589/81987504-9d2dc900-95ee-11ea-8eca-e0c12f1b5fa4.jpg)
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
