@@ -6,15 +6,22 @@
 
 ## Rebecca Allan, Dana Fisk, Carl Quicksall, Samuel Wright, Alyssa Zuniga
 
+
+
+
+
 # Project Files
 The project files include a more in depth report than the project summary.
 
-Design Report
-Presentation
-Simulation 
-Software Files
-V-REP File
-Code Source
+- Design Report
+- Presentation
+- Simulation 
+- Software Files
+- V-REP File
+- Code Source
+
+
+
 
 
 # Project Summary 
