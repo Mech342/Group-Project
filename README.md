@@ -4,11 +4,7 @@
 
 # Group Members
 
-## Rebecca Allan
-## Dana Fisk
-## Carl Quicksall
-## Samuel Wright
-## Alyssa Zuniga
+## Rebecca Allan, Dana Fisk, Carl Quicksall, Samuel Wright, Alyssa Zuniga
 
 # Project Files
 
