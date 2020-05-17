@@ -27,17 +27,17 @@ In regards to our requirements, we were able to derive a transfer function, to p
 
 [Design Report](https://github.com/Mech342/Group-Project/files/4640779/Design.Report.pdf)
 - Presentation
+
 [Simulation File](https://github.com/Mech342/Group-Project/files/4640815/Ball.and.Plate.pptx)
-- Software Files - these woudl be better if they were ours but ill work on it.
-[Courseware Resources (given) ](https://github.com/Mech342/Group-Project/files/4640829/Courseware.Resources.8.zip)
+[Our Software Files](https://github.com/Mech342/Group-Project/files/4640847/Software-20200517T191412Z-001.zip)
+
 - V-REP File
-- Code Source
 
 [Code Source - Software ](https://github.com/Mech342/Group-Project/files/4640839/Software-20200517T191224Z-001.zip)
 
 [Code Source - Documentaton ](https://github.com/Mech342/Group-Project/files/4640841/Documentation-20200517T191250Z-001.zip)
 
-[Software-20200517T191412Z-001.zip](https://github.com/Mech342/Group-Project/files/4640847/Software-20200517T191412Z-001.zip)
+
 
 
 
