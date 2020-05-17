@@ -27,6 +27,7 @@ In regards to our requirements, we were able to derive a transfer function, to p
 
 
 - Design Report
+[Design Report](https://github.com/Mech342/Group-Project/files/4640779/Design.Report.pdf)
 - Presentation
 - Simulation 
 - Software Files
