@@ -10,8 +10,14 @@
 
 
 
+# Project Summary 
+
+
+
+
+
 # Project Files
-The project files include a more in depth report than the project summary.
+
 
 - Design Report
 - Presentation
@@ -19,12 +25,6 @@ The project files include a more in depth report than the project summary.
 - Software Files
 - V-REP File
 - Code Source
-
-
-
-
-
-# Project Summary 
 
 
 
