@@ -4,7 +4,11 @@
 
 # Group Members
 
-## Rebecca Allan, Dana Fisk, Carl Quicksall, Samuel Wright, Alyssa Zuniga
+## Rebecca Allan
+## Dana Fisk
+## Carl Quicksall
+## Samuel Wright
+## Alyssa Zuniga
 
 
 You can use the [editor on GitHub](https://github.com/Mech342/Group-Project-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
