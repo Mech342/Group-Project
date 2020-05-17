@@ -1,6 +1,6 @@
 ## Ball and Plate 
 
-![pasted image 0](https://user-images.githubusercontent.com/65363589/82133766-9a74d480-97a4-11ea-950f-927b8faafa31.png)
+![Model_Image](https://user-images.githubusercontent.com/65363589/82133838-4ae2d880-97a5-11ea-9ba0-2c7557ba91b6.JPG)
 
 You can use the [editor on GitHub](https://github.com/Mech342/Group-Project-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
