@@ -1,4 +1,6 @@
-## Welcome 
+## Ball and Plate 
+
+![Ball and Plate PID control with 6 DOF Stewart platform - Imgur](https://user-images.githubusercontent.com/65363589/82133572-a9f31e00-97a2-11ea-9070-671568f5318b.gif)
 
 You can use the [editor on GitHub](https://github.com/Mech342/Group-Project-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
