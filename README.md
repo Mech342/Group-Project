@@ -16,6 +16,7 @@ The challenge of this project is to demonstrate the ability to balance a ball on
 This will be accomplished using two rotary servo base units in conjunction with two degrees of freedom. A camera will be implemented to sense and record the location of the ball and pass that information to the controller, giving it the data it needs to compensate and adjust the plate.
 The four main platforms used to build this system were: MATLAB, Simulink, CoppeliaSim, and Quarc.  MATLAB is used as the primary computation engine. 
 CoppeliaSim is our simulation platform that allows us to build a virtual model of our robot. Simulink acts as the go between MATLAB and CoppeliaSim and Quark is a watchdog that provides additional features. Together these four systems make up our full PID system.
+
 In regards to our requirements, we were able to derive a transfer function, to properly model the physical system. We were able to generate a simulated model of the physical system as well as create a control system prototype that is ready to be implemented in Simulink. We were not however successful in our attempts to integrate the transfer function with the virtual system.
 
 
