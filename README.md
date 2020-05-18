@@ -31,7 +31,7 @@ Please see our links below for our full project report, presentatiton video, and
 Fix this its the power point
 [Simulation File](https://github.com/Mech342/Group-Project/files/4640815/Ball.and.Plate.pptx)
 
-[Our Software Files](https://github.com/Mech342/Group-Project/files/4640847/Software-20200517T191412Z-001.zip)
+[Group Software](https://github.com/Mech342/Group-Project/files/4641468/Group.Software.zip)
 
 [Code Source - Software ](https://github.com/Mech342/Group-Project/files/4640839/Software-20200517T191224Z-001.zip)
 
