@@ -23,7 +23,7 @@ Please see our links below for our full project report, presentatiton video, and
 
 # Project Links
 
-[Design Report](https://github.com/Mech342/Group-Project/files/4640779/Design.Report.pdf)
+[Design Report](https://github.com/Mech342/Group-Project/files/4642247/Design.Report.pdf)
 
 [Presentation Video](https://youtu.be/V3ocMV7tjmo)
 
