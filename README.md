@@ -28,8 +28,9 @@ Please see our links below for our full project report, presentatiton video, and
 
 [Design Report](https://github.com/Mech342/Group-Project/files/4640779/Design.Report.pdf)
 
-Fix this its the power point
-[Simulation File](https://github.com/Mech342/Group-Project/files/4640815/Ball.and.Plate.pptx)
+[Presentation Video](https://youtu.be/V3ocMV7tjmo)
+
+[Simulation Model](https://drive.google.com/open?id=1FmcD8cXzUKW1oMmp661eZUzTraKDexhv)
 
 [Group Software](https://github.com/Mech342/Group-Project/files/4641468/Group.Software.zip)
 
@@ -37,4 +38,4 @@ Fix this its the power point
 
 [Code Source - Documentaton ](https://github.com/Mech342/Group-Project/files/4640841/Documentation-20200517T191250Z-001.zip)
 
-[Presentation Video](https://youtu.be/V3ocMV7tjmo)
+
