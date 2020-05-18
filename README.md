@@ -23,7 +23,7 @@ In regards to our requirements, we were able to derive a transfer function, to p
 
 
 
-# Project Files
+# Project Links
 
 [Design Report](https://github.com/Mech342/Group-Project/files/4640779/Design.Report.pdf)
 - Presentation
