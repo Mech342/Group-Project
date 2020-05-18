@@ -18,7 +18,8 @@ This will be accomplished using two rotary servo base units in conjunction with 
 The four main platforms used to build this system were: MATLAB, Simulink, CoppeliaSim, and Quarc.  MATLAB is used as the primary computation engine. 
 CoppeliaSim is our simulation platform that allows us to build a virtual model of our robot. Simulink acts as the go between MATLAB and CoppeliaSim and Quark is a watchdog that provides additional features. Together these four systems make up our full PID system.
 
-In regards to our requirements, we were able to derive a transfer function, to properly model the physical system. We were able to generate a simulated model of the physical system as well as create a control system prototype that is ready to be implemented in Simulink. We were not however successful in our attempts to integrate the transfer function with the virtual system.
+In regards to our requirements, we were able to derive a transfer function, to properly model the physical system. We were able to generate a simulated model of the physical system as well as create a control system prototype that is ready to be implemented in Simulink. We were not however successful in our attempts to integrate the transfer function with the virtual system. 
+Please see our links below for our full project report, presentatiton video, and software files.
 
 
 
