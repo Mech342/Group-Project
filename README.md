@@ -26,9 +26,6 @@ In regards to our requirements, we were able to derive a transfer function, to p
 # Project Links
 
 [Design Report](https://github.com/Mech342/Group-Project/files/4640779/Design.Report.pdf)
-- Presentation
-
-https://youtu.be/a1N-cFBmNYk
 
 [Simulation File](https://github.com/Mech342/Group-Project/files/4640815/Ball.and.Plate.pptx)
 
@@ -38,3 +35,4 @@ https://youtu.be/a1N-cFBmNYk
 
 [Code Source - Documentaton ](https://github.com/Mech342/Group-Project/files/4640841/Documentation-20200517T191250Z-001.zip)
 
+[Presentation Video](https://youtu.be/a1N-cFBmNYk)
